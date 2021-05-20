@@ -1,0 +1,7 @@
+Download the data from https://www.kaggle.com/grassknoted/asl-alphabet.
+
+Extract the zip files such that 
+train_dir = '../input/asl-alphabet/asl_alphabet_train/asl_alphabet_train'
+test_dir = '../input/asl-alphabet/asl_alphabet_test/asl_alphabet_test'
+
+This way we can run the code on our PCs too.
