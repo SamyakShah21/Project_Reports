@@ -1,4 +1,4 @@
-# ME 766 High Performance Scientific Computing- Final Project  
+# ME 766 High Performance Scientific Computing- Course Project  
 # In the Moment of Heat
 <br>
 
