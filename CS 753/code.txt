@@ -1,1 +1,3 @@
+The full code of the project is available at the following link:
+
 https://github.com/methi1999/stego-audio
